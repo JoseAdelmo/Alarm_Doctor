@@ -1,2 +1,4 @@
-# Water-Doctor
-O objetivo desse aplicativo e fazer com que as pessoas se lembrem de beber mais água diariamente e estou desenvolvendo ele para estar praticando minhas habilidades fazendo o utilízio de Dart em Flutter.
+# Alarm-Doctor
+
+O objetivo desse aplicativo é fazer com que as pessoas que estiverem acessando ele possam estar colocando o nome das medicações que tomam diariamente e possam
+utilizá-lo como uma espécie de alarme.
